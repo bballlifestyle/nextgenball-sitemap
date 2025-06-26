@@ -1,4 +1,3 @@
 User-agent: *
-Disallow:
-
-Sitemap: https://nextgenball.com/sitemap.xml
+Allow: /
+Sitemap: https://sitemap.nextgenball.com/sitemap.xml
