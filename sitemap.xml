@@ -66,4 +66,16 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://nextgenball.com/blog/record/recyT729aZ2gtzhWU?sId=CJyPzpqpBe29</loc>
+    <lastmod>2025-06-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nextgenball.com/blog/record/recOq8WQ2eFDdgZ3w?sId=CJyPzpqpBe29</loc>
+    <lastmod>2025-06-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
